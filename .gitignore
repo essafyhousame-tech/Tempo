@@ -5,3 +5,5 @@ dist/
 .expo/
 .DS_Store
 *.log
+*.db
+*.db-journal
